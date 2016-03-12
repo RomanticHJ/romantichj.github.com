@@ -4,6 +4,7 @@ title: "Hello Github Blog"
 date: 2016-03-13 00:07:08 +0800
 comments: true
 categories: iOS
+tags: [Octopress]
 ---
 
 <br>
