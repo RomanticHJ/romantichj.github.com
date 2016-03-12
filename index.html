@@ -29,7 +29,16 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <!--<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">-->
 <!--<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">-->
-
+<script>
+    function addBlankTargetForLinks () {
+        $('a[href^="http"]').each(function(){
+            $(this).attr('target', '_blank');
+        });
+    }
+    $(document).bind('DOMNodeInserted', function(event) {
+        addBlankTargetForLinks();
+    });
+</script>
   
 
 </head>
@@ -106,7 +115,7 @@
   
   
     <footer>
-      <a rel="full-article" href="/blog/2016/03/13/hello-github-blog/">阅读更多</a>
+      <a rel="full-article" href="/blog/2016/03/13/hello-github-blog/">阅读全文</a>
     </footer>
   
 
