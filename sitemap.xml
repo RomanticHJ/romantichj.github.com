@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/</loc>
+<lastmod>2016-03-13T20:03:19+08:00</lastmod>
+</url>
+<url>
 <loc>http://romantichj.github.io/blog/2016/03/13/hello-github-blog/</loc>
 <lastmod>2016-03-13T00:07:08+08:00</lastmod>
 </url>
@@ -15,6 +19,9 @@
 </url>
 <url>
 <loc>http://romantichj.github.io/blog/categories/ios/</loc>
+</url>
+<url>
+<loc>http://romantichj.github.io/tags/octopress/</loc>
 </url>
 <url>
 <loc>http://romantichj.github.io/tags/octopress/</loc>
