@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ios | Romantic沐风个人博客]]></title>
-  <link href="http://romantichj.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <title><![CDATA[Tag: iOS | Romantic沐风个人博客]]></title>
+  <link href="http://romantichj.github.io/tags/ios/atom.xml" rel="self"/>
   <link href="http://romantichj.github.io/"/>
   <updated>2016-03-13T21:33:49+08:00</updated>
   <id>http://romantichj.github.io/</id>
@@ -142,32 +142,6 @@
     return nil;
 }
 </code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello Github Blog]]></title>
-    <link href="http://romantichj.github.io/blog/2016/03/13/hello-github-blog/"/>
-    <updated>2016-03-13T00:07:08+08:00</updated>
-    <id>http://romantichj.github.io/blog/2016/03/13/hello-github-blog</id>
-    <content type="html"><![CDATA[<p><br>
-</br></p>
-
-<div align="center">
-<img src="http://file03.16sucai.com/2016/01/2016r5scapyhnbp.jpg" alt="" border="0" title="Logo"/>
-<br>
-</br>
-</div>
-
-
-<h3><center>Hello, Github Blog!</h3>
-
-<h3><center>Octopress结合Github搭建博客是很酷!</h3>
-
-<!--more-->
-
-
-<p><em><center>你无法在主页上看到这一行</center></em></p>
 ]]></content>
   </entry>
   

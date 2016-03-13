@@ -4,7 +4,7 @@
   <title><![CDATA[Romantic沐风个人博客]]></title>
   <link href="http://romantichj.github.io/atom.xml" rel="self"/>
   <link href="http://romantichj.github.io/"/>
-  <updated>2016-03-13T20:39:45+08:00</updated>
+  <updated>2016-03-13T21:33:49+08:00</updated>
   <id>http://romantichj.github.io/</id>
   <author>
     <name><![CDATA[沐风]]></name>
@@ -140,7 +140,12 @@
         }
     }
     return nil;
-}
+}&lt;p class='post-footer'&gt;
+        显示信息
+        &lt;a href='http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/'&gt;http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/&lt;/a&gt;&lt;br/&gt;
+        written by &lt;a href='http://romantichj.github.io'&gt;沐风&lt;/a&gt;
+        &amp;nbsp;posted at &lt;a href='http://romantichj.github.io'&gt;http://romantichj.github.io&lt;/a&gt;
+        &lt;/p&gt;
 </code></pre>
 ]]></content>
   </entry>
@@ -167,7 +172,12 @@
 <!--more-->
 
 
-<p><em><center>你无法在主页上看到这一行</center></em></p>
+<p><em><center>你无法在主页上看到这一行</center></em><p class='post-footer'>
+            显示信息
+            <a href='http://romantichj.github.io/blog/2016/03/13/hello-github-blog/'><a href="http://romantichj.github.io/blog/2016/03/13/hello-github-blog/">http://romantichj.github.io/blog/2016/03/13/hello-github-blog/</a></a><br/>
+            written by <a href='http://romantichj.github.io'>沐风</a>
+            &nbsp;posted at <a href='http://romantichj.github.io'><a href="http://romantichj.github.io">http://romantichj.github.io</a></a>
+            </p></p>
 ]]></content>
   </entry>
   
