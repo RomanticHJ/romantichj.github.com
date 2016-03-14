@@ -49,6 +49,7 @@ excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
 
+original_url_pre: "显示信息"
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
 default_asides: [custom/asides/category_list.html, asides/recent_posts.html, custom/asides/tags.html, custom/asides/weibo.html, custom/asides/flag_counter.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]

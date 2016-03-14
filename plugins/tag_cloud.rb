@@ -71,7 +71,7 @@ module Jekyll
       end
 
       # get the top @limit tag pairs when a limit is given, unless the sort method is random
-      if @limit > 0 and @sort != 'rand'
+      if @limit > 0 and @sort != 'rand' and @limit < weighted.length
         # sort the tag pairs by frequency in descending order
         weighted.sort! { |a,b| b[1] <=> a[1] }
 
@@ -92,7 +92,7 @@ module Jekyll
       when 'rand'
         weighted.sort_by! { rand }
 
-        if @limit > 0
+        if @limit > 0 and @limit < weighted.length
           # slice off the top @limit tag pairs
           weighted = weighted[0,@limit]
         end
