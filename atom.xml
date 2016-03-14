@@ -4,7 +4,7 @@
   <title><![CDATA[Romantic沐风个人博客]]></title>
   <link href="http://romantichj.github.io/atom.xml" rel="self"/>
   <link href="http://romantichj.github.io/"/>
-  <updated>2016-03-13T21:33:49+08:00</updated>
+  <updated>2016-03-14T14:25:21+08:00</updated>
   <id>http://romantichj.github.io/</id>
   <author>
     <name><![CDATA[沐风]]></name>
@@ -140,13 +140,15 @@
         }
     }
     return nil;
-}&lt;p class='post-footer'&gt;
-        显示信息
-        &lt;a href='http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/'&gt;http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/&lt;/a&gt;&lt;br/&gt;
-        written by &lt;a href='http://romantichj.github.io'&gt;沐风&lt;/a&gt;
-        &amp;nbsp;posted at &lt;a href='http://romantichj.github.io'&gt;http://romantichj.github.io&lt;/a&gt;
-        &lt;/p&gt;
+}
 </code></pre>
+
+<p>原文转载来自:<a href="http://www.tanhao.me/pieces/527.html/">http://www.tanhao.me/pieces/527.html/</a><p class='post-footer'>
+            显示信息
+            <a href='http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/'><a href="http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/">http://romantichj.github.io/blog/2016/03/13/cocoazhong-duo-chong-fang-shi-huo-qu-yong-hu-de-emailxin-xi/</a></a><br/>
+            written by <a href='http://romantichj.github.io'>沐风</a>
+            &nbsp;posted at <a href='http://romantichj.github.io'><a href="http://romantichj.github.io">http://romantichj.github.io</a></a>
+            </p></p>
 ]]></content>
   </entry>
   
